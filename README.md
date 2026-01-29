@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [TicketTracer for AlphaBank](https://github.com/qwuipss/ticket-tracer-web)
 
-- 🌱 Currently learning **Vue**
+- 🌱 Currently learning **Angular**
 
 - 📫 Contact me **alex.ujikol@gmail.com**
 
